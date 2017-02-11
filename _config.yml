@@ -53,7 +53,6 @@ exclude:
 - LICENSE.md
 - README.md
 - config
-- css
 - img
 - js
 - manifest.yml
