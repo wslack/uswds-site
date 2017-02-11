@@ -20,7 +20,9 @@ repos:
   url: https://github.com/18F/web-design-standards-assets
 
 sass:
-  sass_dir: assets/css
+  load_paths:
+    - css
+    - assets/css
 
 collections:
   visual:
